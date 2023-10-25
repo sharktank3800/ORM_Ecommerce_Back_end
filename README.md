@@ -69,7 +69,7 @@ npm start
 
 - We can use tools like Postman or curl to make API requests, For myself i used Insomnia.
 
-- Refer to the API Routes section below for details on available routes and their usage.
+- Refer to the [API Routes](#api-routes) section below for details on available routes and their usage.
 
 
 ## Database Setup
